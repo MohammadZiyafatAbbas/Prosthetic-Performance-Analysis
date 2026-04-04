@@ -32,7 +32,6 @@ By analyzing 120 realistic session records across 8 distinct users, the dashboar
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots of your application)*
 
 | Dashboard Overview | Session Details |
 |:---:|:---:|
