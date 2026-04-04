@@ -35,7 +35,7 @@ By analyzing 120 realistic session records across 8 distinct users, the dashboar
 
 | Dashboard Overview | Session Details |
 |:---:|:---:|
-| <img src="prosthetic-dashboard/dashboard.png/600x350.png?text=Dashboard+Overview" alt="Dashboard Overview" width="100%"/> | <img src="prosthetic-dashboard/session.png/600x350.png?text=Session+Details" alt="Session Details" width="100%"/> |
+| <img src="prosthetic-dashboard/dashboard.png" width="100%"/> | <img src="prosthetic-dashboard/session.png" width="100%"/> |
 
 ---
 
